@@ -1,0 +1,160 @@
+[[ZoneDetect]]
+arch = "aarch64"
+git-tree-sha1 = "ec8b285c0feb30cf5d34a155b4e8359128d162cb"
+os = "macos"
+
+    [[ZoneDetect.download]]
+    sha256 = "bb207f8c89ae1af55de8abd1e712258b851754bad90ac348bf3cc2d2808641f4"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.aarch64-apple-darwin.tar.gz"
+[[ZoneDetect]]
+arch = "aarch64"
+git-tree-sha1 = "a35440e6d7f334e21377254349fe6d60e348592e"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "d1d9207be22415ec31d0173d9590d74bafcf82d934d02d03a2d706596b936493"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.aarch64-linux-gnu.tar.gz"
+[[ZoneDetect]]
+arch = "aarch64"
+git-tree-sha1 = "87b9850be4342bbebfe6e3e05431207c27a0479b"
+libc = "musl"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "995bb4e10a68bca2e17e3f8d4a1b1d51a3f39776e56990eeea8b72137582567d"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.aarch64-linux-musl.tar.gz"
+[[ZoneDetect]]
+arch = "aarch64"
+git-tree-sha1 = "b556a223cabca301bc4dcd6d2f570658b984e561"
+os = "freebsd"
+
+    [[ZoneDetect.download]]
+    sha256 = "519a2f3614f322e54995ea010989c7a9923c70f3d4b79e20eb67f0ae6722d627"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.aarch64-unknown-freebsd.tar.gz"
+[[ZoneDetect]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d1f4bd58299c5c8b2fb8292a72e00d33d38805ef"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "b8365e24118653b190e68707035cc49c23f616cde8e4171459befb3d55167f2b"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.armv6l-linux-gnueabihf.tar.gz"
+[[ZoneDetect]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "75913024b67bb84ccef004d232a912a49378bdb6"
+libc = "musl"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "35640523c61694f2c47e2995c954fe89ff346057cc5a1a0e43d0fa8a4be2f65f"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.armv6l-linux-musleabihf.tar.gz"
+[[ZoneDetect]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b05a2c3def022e69d106a8a8a4dd2f0aceb08820"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "e6e32bc7bc0be43d9704b7a686de2023d07375880bac1eae1753cd30c44bbbf4"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.armv7l-linux-gnueabihf.tar.gz"
+[[ZoneDetect]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f56b41dc732e08ad605f2996bda3dfe1e1d7877f"
+libc = "musl"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "e836925868d0231b420361ff74e7d01e46b4b87f7b320e52c69519f678f16ec6"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.armv7l-linux-musleabihf.tar.gz"
+[[ZoneDetect]]
+arch = "i686"
+git-tree-sha1 = "1455378cadf72aa819875dc3d5291d25e41e3f36"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "e966d5fc1ddef99d7a80f018eb762d1ffbd425c94556eab5018228c5f24562fb"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.i686-linux-gnu.tar.gz"
+[[ZoneDetect]]
+arch = "i686"
+git-tree-sha1 = "cd37d6a7b271a1120c6b8f8e0808009760ef3288"
+libc = "musl"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "e22f5d0074d19e995bf21d9d377379e2aa8a58f6aa75377083cff7936658cb89"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.i686-linux-musl.tar.gz"
+[[ZoneDetect]]
+arch = "i686"
+git-tree-sha1 = "4f6b8a7f45ef541b6f67729144ada89e7310b2a1"
+os = "windows"
+
+    [[ZoneDetect.download]]
+    sha256 = "b41c31c88d8b2ff78290eacf87697fc9a355fce9995024e5389a15419801496c"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.i686-w64-mingw32.tar.gz"
+[[ZoneDetect]]
+arch = "powerpc64le"
+git-tree-sha1 = "14f2df1090e3c3aa8f94df3bc9272a6780111b1d"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "f2457449c7c8af95f071cd0b79d7a033815e2b3f8b62dd9e8945c0adc70f85f2"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.powerpc64le-linux-gnu.tar.gz"
+[[ZoneDetect]]
+arch = "riscv64"
+git-tree-sha1 = "6c159e9b6b204f44709fb7ce0c0c05ed06e3fb87"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "2e681ea403d15e1a9e23a6a5891c0293d77746dbd3145bb0d20b0470a0cebd29"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.riscv64-linux-gnu.tar.gz"
+[[ZoneDetect]]
+arch = "x86_64"
+git-tree-sha1 = "aab0d4e111dd0816bb709d5a4de958a04da6edef"
+os = "macos"
+
+    [[ZoneDetect.download]]
+    sha256 = "be13bc86f6afffb56c3d94ecc244d136532a788b15112259923c62e0f0c24462"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.x86_64-apple-darwin.tar.gz"
+[[ZoneDetect]]
+arch = "x86_64"
+git-tree-sha1 = "faa8a5e49bdabe2e01479369e76f7efacd933082"
+libc = "glibc"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "f6a86659d488484a4fa31505e923e0df3d857a924dd9c8ea802abdc1e35c4d9a"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.x86_64-linux-gnu.tar.gz"
+[[ZoneDetect]]
+arch = "x86_64"
+git-tree-sha1 = "a425a0bfd1d8b16340eccba334315fd2bee348e7"
+libc = "musl"
+os = "linux"
+
+    [[ZoneDetect.download]]
+    sha256 = "ca9e0361fdd2d9826248b8fd7af42f6118db2dbe5a40600069c291b3aef05548"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.x86_64-linux-musl.tar.gz"
+[[ZoneDetect]]
+arch = "x86_64"
+git-tree-sha1 = "63f4855873f459c1a8195309929c1a038966254a"
+os = "freebsd"
+
+    [[ZoneDetect.download]]
+    sha256 = "8f8df711cb74abb28188a73ca811cbfadcf1503cc9cb8ca3a1433120d57d5be2"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.x86_64-unknown-freebsd.tar.gz"
+[[ZoneDetect]]
+arch = "x86_64"
+git-tree-sha1 = "efc82db4dd4469e10db339b3747914ba7563dd34"
+os = "windows"
+
+    [[ZoneDetect.download]]
+    sha256 = "c547c3fb48299e25b48a07696ebf912d93a6b262eb7a2cc401ea7a1018bef7ef"
+    url = "https://github.com/JuliaBinaryWrappers/ZoneDetect_jll.jl/releases/download/ZoneDetect-v2024.9.13+0/ZoneDetect.v2024.9.13.x86_64-w64-mingw32.tar.gz"
